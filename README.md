@@ -40,4 +40,4 @@ The webpage address:
 
 [MIT](LICENCE)
 
-Copyright (c) 2022 Denis Ouma Otieno
+
